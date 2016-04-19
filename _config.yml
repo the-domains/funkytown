@@ -1,0 +1,28 @@
+name: FunkyTown
+favicon: null
+layout_spectrum: 0.0228133425116539
+typography_spectrum: 0.29956065979786217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.08294133399613202
+  lightness: 0.33770537516102195
+  saturation: 0.614288053009659
+  rhythmicContrast: 0.4363739506807178
+purpose: []
