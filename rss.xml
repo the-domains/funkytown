@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FunkyTown]]></title>
         <description><![CDATA[FunkyTown]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/funkytown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 19:18:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 19:22:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/funkytown/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61db41e8-62d1-45c4-87ff-1e932ae934be.jpg">]]></description>
-            <link>undefined6fcfd860-498c-4f51-989e-d3bcfcc11dcd/index.html</link>
+            <link>https://thegrid.ai/funkytown/6fcfd860-498c-4f51-989e-d3bcfcc11dcd/index.html</link>
             <guid isPermaLink="false">6fcfd860-498c-4f51-989e-d3bcfcc11dcd</guid>
-            <pubDate>Tue, 19 Apr 2016 19:18:48 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 19:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
